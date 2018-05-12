@@ -1,0 +1,42 @@
+_repo: The-Story-of-Hiawatha-Adapted-from-Longfellow_31926
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, M. L. (Maria Louise)
+    - Kirk, Maria L.
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+covers:
+- cover_type: archival
+  image_path: 31926-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+  - agent_name: Stokes, Winston
+    gutenberg_agent_id: '35559'
+    url: http://www.gutenberg.org/2009/agents/35559
+description: ''
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iroquois Indians -- Kings and rulers -- Poetry'
+- !lcsh 'Hiawatha, active 15th century -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Poetry'
+title: The Story of Hiawatha, Adapted from Longfellow
+url: http://www.gutenberg.org/ebooks/31926
